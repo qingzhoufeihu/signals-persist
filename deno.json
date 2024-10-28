@@ -1,0 +1,9 @@
+{
+  "name": "@jagger/signals-persist",
+  "version": "1.0.0",
+  "imports": {
+    "@preact/signals": "npm:@preact/signals@^1.3.0"
+  },
+  "license": "MIT",
+  "exports": "./src/index.ts"
+}
